@@ -18,9 +18,6 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0A66C2&label=FOLLOWERS)
 
 </div>
 
